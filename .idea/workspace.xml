@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebb49185-e672-4607-a723-c1adabdcd1ce" name="Default Changelist" comment="" />
+    <list default="true" id="ebb49185-e672-4607-a723-c1adabdcd1ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/profile_pics/zvezdnoe_nebo_mlechnyj_put_noch_124665_1920x1080.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/profile_pics/zvezdnoe_nebo_mlechnyj_put_noch_124665_1920x1080.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bgJu7MEXB0FoEaJBKJ7sZNcsl7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../training" />
   </component>
   <component name="RunManager">
     <configuration name="My_Blog" type="Python.DjangoServer" factoryName="Django server">
@@ -69,6 +81,10 @@
       <workItem from="1589286634402" duration="11855000" />
       <workItem from="1589448287751" duration="9584000" />
       <workItem from="1590170243812" duration="15000" />
+      <workItem from="1590264718552" duration="854000" />
+      <workItem from="1590313839639" duration="2651000" />
+      <workItem from="1590411640751" duration="3748000" />
+      <workItem from="1590601226115" duration="4994000" />
     </task>
     <servers />
   </component>
@@ -76,10 +92,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589287154837">
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590601242448">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589287154837" />
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590601242448" />
     <state x="1185" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1589325402893">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
